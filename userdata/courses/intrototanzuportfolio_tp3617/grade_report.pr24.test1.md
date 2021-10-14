@@ -1,3 +1,11 @@
+# Member Grade Report for timo-herweg for test1  
+   
+Member_Github_Account_Login: timo-herweg  
+Member_Github_Account_ID 49987987  
+Test_Name: test1  
+Test_Date: Thu Oct 14 14:18:33 UTC 2021  
+Course_URL: https://modernappsninja.github.io/intrototanzuportfolio_tp3617/  
+   
 ---  
 #### test1 Individual Question Results:  
 Question1: Correct  
